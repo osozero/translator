@@ -40,8 +40,8 @@ var text = flag.String("t", "", "text to be translated")
 
 var usage = `Usage: translator -t Hello -l en-tr 
 
-	-t Text to be translated. If text consists space, 
-	-l Translation direction, default valuse is en-tr which means translator translates text from English to Turkish 
+	-t Text to be translated. If text contains space, quotation marks must be used
+	-l Translation direction, default value is en-tr which means translator translates text from English to Turkish 
 	
 	`
 
