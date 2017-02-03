@@ -5,6 +5,7 @@ With the Translator tool, which uses the Yandex Translator service, you can quic
 Usage: translator -t Hello -l en-tr
 
 -t Text to be translated. **If text contains space, quotation marks must be used**
+
 -l Translation direction, **default value is en-tr** which translates text from English to Turkish
 
 
