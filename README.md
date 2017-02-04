@@ -18,9 +18,9 @@ Usage: translator -t Hello -l en-tr
 
 ####Use case 2:
 
->Translator -t hello -l tr-es
+>Translator -t merhaba -l tr-es
 
 >Response:
->Hello: [Hola]
+>merhaba: [Hola]
 
 Have fun :)
