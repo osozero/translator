@@ -1,4 +1,4 @@
 {
     "URL" : "https://translate.yandex.net/api/v1.5/tr.json/translate?key=",
-    "APIKey":"your key goes here"
+    "APIKey":"your api key goes here"
 }
